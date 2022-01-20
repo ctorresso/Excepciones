@@ -52,8 +52,4 @@ public class contador {
 
     }
 
-    public class NumeroNegativoExceptio extends Exception{
-
-    }
-
 }

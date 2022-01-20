@@ -15,7 +15,6 @@ public class NumeroNegativoException{
             double raiz=Math.sqrt(num);
             System.out.println("La raiz cuadrada de " +num +" es: "+ raiz);
 
-
         }
 
     }
